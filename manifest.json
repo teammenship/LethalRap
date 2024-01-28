@@ -1,6 +1,6 @@
 {
     "name": "DK_Rap_Intro_Mod",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/teammenship/LethalRap",
     "description": "Do you think the company needs to be more Funky™? Let's start each game in style.",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
